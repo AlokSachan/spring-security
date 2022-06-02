@@ -4,5 +4,9 @@ spring:
       host: localhost
       port: 27017
       database: spring
+  security:
+    user:
+      name: alok
+      password: Sachan@123
 server:
   port: 9091
